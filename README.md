@@ -59,6 +59,16 @@ $codec->fromMorse('example.txt');
 
 ---
 
+## 💡 Inspiration
+
+This project was inspired by the legacy of Samuel Morse (1791–1872), whose work on the Morse code helped lay the foundation for long-distance communication.
+
+As a software developer, I wanted to explore a small but creative idea: representing visual information using one of the earliest digital communication systems ever created.
+
+This library is my tribute to that idea.
+
+---
+
 ## 👨‍💻 Author
 - [Oleh Kovalenko](https://github.com/oleh-exe) — Owner & Maintainer
 
