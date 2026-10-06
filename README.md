@@ -1,6 +1,6 @@
 # Image Morse Codec
 
-![PHP Version](https://img.shields.io/badge/PHP-%3E%3D8.5-blue.svg?logo=php)
+![PHP Version](https://img.shields.io/badge/PHP-%3E%3D8.2-blue.svg?logo=php)
 ![PHP GD Extension](https://img.shields.io/badge/GD%20extension-required-orange)
 ![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)
 [![Stand with Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
@@ -33,7 +33,7 @@ It supports PNG and JPEG images through PHP's GD extension.
 
 ## ⚡ Requirements
 
-- PHP **>= 8.5**
+- PHP **>= 8.2**
 - PHP **GD extension** enabled
 
 ---
