@@ -7,10 +7,8 @@ error_log
 *.tmp
 *~
 
-# IDE Files (PhpStorm)
+# IDE files
 .idea/
-
-# IDE Files (VS Code)
 .vscode/
 
 # Composer Dependencies
@@ -23,14 +21,19 @@ tmp/
 
 # Environment Files
 .env
-.env.*
+.env.local
+.env.*.local
 
 # Operating System Files
 .DS_Store
 Thumbs.db
 
-# PHPStan cache files
-/var/phpstan/
+# Runtime files
+/var/*
+!/var/.gitkeep
 
-# phpDocumentor files
-/build/
+# Local development environment
+/docker/
+
+# Local Docker Compose configuration
+/docker-compose.yml
